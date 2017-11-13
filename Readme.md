@@ -1,4 +1,4 @@
-# mnist-mpl-keras (Deep learning intro)
+# mnist-mlp-keras (Deep learning intro)
 
 This project shows you how to use `machine learning` to recognize handwriteen digits. Consider this the `Hello World` of `AI`.
 
